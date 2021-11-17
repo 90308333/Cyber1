@@ -1,9 +1,9 @@
 
-# Animals
+# Mammals
 
 [Primates](Primates.md)
 
-[Dog things](canidae.md)
+[Canidae (Dogs)](canidae.md)
 
 [Big Cats](Cats.md)
 
