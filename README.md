@@ -1,4 +1,4 @@
-marsupial 
+
 Marsupial is born in a very incomplete state. 
 They are minute, blond, hairless and with hindlimbs only partially formed. 
 The forelimbs however are developed, and the toes are armed with sharp, curved claws. 
