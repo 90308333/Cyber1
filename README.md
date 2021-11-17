@@ -1,3 +1,3 @@
 # Animals
 
-[Dog things](canidae.md)
+[Canidae (Dogs)](canidae.md)
