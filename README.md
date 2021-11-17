@@ -1,5 +1,4 @@
-
-# Mammals
+# Animals
 
 [Primates](Primates.md)
 
